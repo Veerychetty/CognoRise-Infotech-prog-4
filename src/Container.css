@@ -1,0 +1,61 @@
+.bg{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+    background: #A9E5BBFF;
+}
+
+
+
+.container{
+    display: flex;
+    
+    flex-direction: column;
+    justify-content: center;
+    margin: 15rem;
+    max-width: 700px;
+    min-width: 200px;
+    background-color: #F7B32BFF;
+    padding: 20px;
+    border-color:  #E3170AFF;
+    border-style: groove;
+    border-radius: 10px;
+}
+label{
+    color: #FCF6B1FF;
+}
+#target-date{
+    background-color: plum;
+    padding: 5px;
+    border-radius: 10px;
+    outline-color: aqua;
+    border: 0;
+}
+.bnt1{
+    background-color:#A9E5BBFF ;
+    padding: 5px;
+    border-radius: 10px;
+    
+    border: 0;
+
+}
+.bnt2{
+    background-color:#FCF6B1FF ;
+    padding: 5px;
+    border-radius: 10px;
+    margin-top: 3px;
+    
+    border: 0;
+
+}
+#countdown{
+    
+    background-color:palevioletred ;
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 3px;
+    
+    border: 0;
+
+}
